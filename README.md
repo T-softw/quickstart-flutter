@@ -13,4 +13,4 @@ them on a mobile device, virtual device or browser.
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)run
-
+. 
