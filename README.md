@@ -12,5 +12,5 @@ them on a mobile device, virtual device or browser.
 - [Crashlytics](crashlytics/README.md)
 
 ## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
+Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)run
 
